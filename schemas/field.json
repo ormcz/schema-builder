@@ -77,7 +77,8 @@
                 "typeCombo",
                 "url",
                 "wikidata",
-                "wikipedia"
+                "wikipedia",
+                "ormczSignal"
             ],
             "required": true
         },

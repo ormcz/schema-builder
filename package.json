@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "@ideditor/schema-builder",
+  "name": "@ormcz/schema-builder",
   "version": "6.5.1",
   "description": "Framework for defining iD-compatible tagging models",
   "homepage": "https://github.com/ideditor/schema-builder#readme",
